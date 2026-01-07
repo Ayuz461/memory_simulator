@@ -1,0 +1,16 @@
+g++ -Iinclude -Wall -std=c++11 tests/test_suite.cpp src/buddy/buddy.cpp src/cache/cache.cpp -o run_tests
+======================================
+    RUNNING AUTOMATED TEST SUITE      
+======================================
+Testing Buddy Allocator...
+  Requesting 16KB...
+Allocated 16 in block size 16 at offset 0
+  Requesting 32KB...
+Allocated 32 in block size 32 at offset 32
+  Deallocating offset 0...
+Freed block at offset 0
+Merged blocks into size 32
+  [PASS] Buddy Allocator tests finished (Visual check required for output).
+
+Testing Cache Simulator...
+  [PASS] Cold Miss Verified [PASS] Hit Verified [PASS] Eviction Verified

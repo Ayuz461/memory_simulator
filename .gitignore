@@ -1,0 +1,4 @@
+memory_sim
+run_tests
+*.o
+.DS_Store
