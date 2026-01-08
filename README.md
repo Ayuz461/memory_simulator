@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/fa51a14f-5d29-4c17-9edd-bda8218e9c2b
+
+
+
 # Memory Management Simulator
 
 ## Project Overview
@@ -114,4 +120,5 @@ Offset Bits: Log2(BlockSize).
 Name: Ayush Patil(22323010)
 
 Department: Mathematics and Computing 4y, IIT Roorkee
+
 
