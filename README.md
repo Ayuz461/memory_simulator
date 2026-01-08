@@ -28,7 +28,7 @@ The simulator covers three distinct phases of memory management:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 memory-simulator/
